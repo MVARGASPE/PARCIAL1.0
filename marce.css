@@ -1,0 +1,63 @@
+/* para que revises */
+
+
+/* .primera{
+    width: 100px;
+    height: 100px;
+} */
+
+
+/* .uno{
+    height: 500px;
+    width: 100px;
+} */
+
+div.box {
+    margin-top: 5px;
+    margin-left: 30px;
+    display: inline-block;
+    border: 2px solid black;
+    width: 94.5%;
+    height: 100%;
+    background-color: gray;
+}
+
+.box1 {
+    border: 2px solid black;
+    height: 100%;
+    width: 100%;
+    background-color: yellow;
+}
+
+.box2 {
+    margin-left: 82px;
+    border: 2px solid black;
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+}
+
+div.circuloUno {
+    border-radius: 50px;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: honeydew;
+}
+
+div.circuloDos {
+    border-radius: 50px;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+}
+
+.col {
+    border: 2px solid black;
+    width: 50px;
+    height: 120px;
+    margin-left: 20px;
+    background: url(https://4.bp.blogspot.com/__bybHOJ_Djw/S1HMozh1bXI/AAAAAAAAAKg/vHLyIK61hjk/w1200-h630-p-k-no-nu/PAULO+COHELO75.jpg);
+    background-size: cover;
+}
